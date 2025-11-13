@@ -2,9 +2,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
+<h2 align="left">I code with: </h2>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
